@@ -1,0 +1,8 @@
+yt-dlp>=2024.1.1
+ffmpeg-python>=0.2.1
+Pillow>=10.0.0
+mutagen>=1.46.0
+PyQt6>=6.6.0
+PyQt6-Qt6>=6.6.0
+requests>=2.31.0
+python-dotenv>=1.0.0
